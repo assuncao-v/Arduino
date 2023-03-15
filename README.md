@@ -1,2 +1,2 @@
 # Arduino
-This repository is using to store some code made in C++ for Arduino projects.
+This repository is used to store some code made in C++ for Arduino projects.
